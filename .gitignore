@@ -1,2 +1,5 @@
 # Build artifacts in main and subdirs
 .build
+
+# .DS_Store files created by macOS
+.DS_Store
